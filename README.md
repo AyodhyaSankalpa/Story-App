@@ -10,8 +10,8 @@ A beautifully designed Flutter application for reading and exploring short stori
 - Ready for expansion with additional stories and features.
 
 ## Screenshots
-![Story List](assets/screenshot1.png)
-![Story Details](assets/screenshot2.png)
+![Story List](story/assets/screenshot1.png)
+
 
 ## Installation
 
